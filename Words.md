@@ -6,4 +6,4 @@ Spur/Spurred - தூண்டுதல்/ஒருவரை ஊக்குவ
 bitter - கசப்பான = Sounds - bidər
 rendered - வழங்கியது = Sounds - rendərd
 forged - போலியான = Sounds - fôrjd
-chaos - குழப்பம் = Sounds - ˈkāyˌäs
+chaos - பெரிதும் ஒழுங்கற்ற நிலை. குழப்பம். அலங்கோலம் = Sounds - ˈkāyˌäs
