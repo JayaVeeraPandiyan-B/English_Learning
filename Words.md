@@ -1,9 +1,9 @@
-Maybe - இருக்கலாம்
-Perhaps - ஒருவேளை
-Wander/Wandering - அலை/அலைந்து திரிதல்
-Tremors - இலேசான அதிர்வியக்கம். சிறு துடிப்பு அல்லது நடுக்கம்.
-Spur/Spurred - தூண்டுதல்/ஒருவரை ஊக்குவி. ஒருவரை மேலும் கடுமையாக அல்லது விரைவாகச் செயலாற்றச் செய்
-bitter - கசப்பான
-rendered - வழங்கியது
-forged - போலியான
-chaos - குழப்பம்
+Maybe - இருக்கலாம் = Sounds - 
+Perhaps - ஒருவேளை = Sounds - 
+Wander/Wandering - அலை/அலைந்து திரிதல் = Sounds - 
+Tremors - இலேசான அதிர்வியக்கம். சிறு துடிப்பு அல்லது நடுக்கம் = Sounds - 
+Spur/Spurred - தூண்டுதல்/ஒருவரை ஊக்குவி. ஒருவரை மேலும் கடுமையாக அல்லது விரைவாகச் செயலாற்றச் செய் = Sounds - speerrdd
+bitter - கசப்பான = Sounds - bidər
+rendered - வழங்கியது = Sounds - rendərd
+forged - போலியான = Sounds - fôrjd
+chaos - குழப்பம் = Sounds - ˈkāyˌäs
